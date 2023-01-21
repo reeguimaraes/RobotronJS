@@ -4,6 +4,7 @@
     --main-preto: #000000;
 }
 
+
 * {
     box-sizing: border-box;
 }
@@ -230,4 +231,15 @@ main {
         height: 80vh;
         margin: 10vh auto;
     }
+}
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display: flex;
 }
